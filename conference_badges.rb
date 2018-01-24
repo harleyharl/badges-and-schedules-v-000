@@ -46,5 +46,3 @@ def printer(attendees)
   #puts assign_rooms(attendees)
   #end
 end
-
-people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
